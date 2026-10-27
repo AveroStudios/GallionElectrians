@@ -1,0 +1,6 @@
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-gU8eYZLL+RG5Bzg0ApkjlqgtoGI8uRQprgNoY0MpKpE=' 'sha256-bZJOpQPOVHbC+O/8XMmMCv2/1U34gyet7m/ecIQtQGk='; style-src 'self' https://fonts.googleapis.com 'sha256-Bi2fUrtWv66oAJsCndCQH53Fqcx9bcufFdHZfcWPFDs='; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000

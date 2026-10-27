@@ -1,0 +1,3 @@
+{"name":"galliano-electrical","version":"1.0.0","private":true,"type":"module",
+"scripts":{"headers":"node gen-headers.mjs","test":"node test.mjs","dev":"wrangler dev","deploy":"node gen-headers.mjs && wrangler deploy"},
+"devDependencies":{"wrangler":"^4"}}
